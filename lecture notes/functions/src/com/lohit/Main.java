@@ -1,11 +1,9 @@
 package com.lohit;
 
-import java.util.Scanner;
-
 public class Main {
 
     public static void main(String[] args) {
+	// Q: Input two nums and get sum
 
     }
-
 }
